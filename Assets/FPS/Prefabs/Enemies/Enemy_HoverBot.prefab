@@ -110,7 +110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SelfDestructYHeight: -20
   PathReachingRadius: 2
-  OrientationSpeed: 10
+  OrientationSpeed: 7
   DeathDuration: 0
   SwapToNextWeapon: 0
   DelayAfterWeaponSwap: 0
