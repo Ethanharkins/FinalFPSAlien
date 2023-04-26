@@ -325,7 +325,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 2
       minColor: {r: 0.83199996, g: 0.83199996, b: 0.83199996, a: 1}
-      maxColor: {r: 0.98039216, g: 0.98039216, b: 0.98039216, a: 1}
+      maxColor: {r: 0.9622642, g: 0.033285756, b: 0.033285756, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -4894,7 +4894,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: a0798aa25b2a35247b262820a588a364, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9904,7 +9903,7 @@ PrefabInstance:
     - target: {fileID: 2300000, guid: 93b1ab0ae86bdf7459bbdf258c9dec49, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 42997a46d4ce7ac48a673a5ae3d8ae68, type: 2}
+      objectReference: {fileID: 2100000, guid: 6487fdefd669d4dbc91709a177cd4b93, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 93b1ab0ae86bdf7459bbdf258c9dec49, type: 3}
 --- !u!4 &5649880935822330217 stripped
